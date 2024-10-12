@@ -35,8 +35,9 @@ a {
 }
 
 .header p {
-    font-size: 18px;
+    font-size: 22px;
     margin: 0;
+    color: red;
 }
 
 .current-time {
